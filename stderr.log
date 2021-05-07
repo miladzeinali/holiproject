@@ -1,0 +1,2138 @@
+2021-05-01 13:00:17.061208 [UID:1523][9172] Child process with pid: 9184 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 14:08:46.012516 [UID:1523][56779] Child process with pid: 56793 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 14:28:06.012313 [UID:1523][47227] Child process with pid: 47289 was killed by signal: 15, core dump: 0
+2021-05-01 14:28:06.228579 [UID:1523][47227] Child process with pid: 47295 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 14:33:13.298607 [UID:1523][63128] Child process with pid: 63131 was killed by signal: 15, core dump: 0
+2021-05-01 14:33:13.377131 [UID:1523][63128] Child process with pid: 63140 was killed by signal: 15, core dump: 0
+2021-05-01 14:33:25.241893 [UID:1523][63128] Child process with pid: 63785 was killed by signal: 15, core dump: 0
+2021-05-01 14:33:25.339782 [UID:1523][63128] Child process with pid: 63788 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 14:54:40.289694 [UID:1523][34858] Child process with pid: 34863 was killed by signal: 15, core dump: 0
+2021-05-01 14:54:41.021587 [UID:1523][34889] Child process with pid: 34933 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 15:10:28.069959 [UID:1523][56273] Child process with pid: 56276 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 17:56:46.040944 [UID:1523][50164] Child process with pid: 50234 was killed by signal: 15, core dump: 0
+2021-05-01 17:56:49.129468 [UID:1523][50164] Child process with pid: 50455 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 20:44:19.009621 [UID:1523][56163] Child process with pid: 56189 was killed by signal: 15, core dump: 0
+2021-05-01 20:44:19.281558 [UID:1523][56163] Child process with pid: 56210 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+2021-05-01 22:31:24.018415 [UID:1523][8093] Child process with pid: 8103 was killed by signal: 15, core dump: 0
+2021-05-01 22:31:27.281311 [UID:1523][8093] Child process with pid: 8325 was killed by signal: 15, core dump: 0
+2021-05-01 22:32:08.017649 [UID:1523][10536] Child process with pid: 10584 was killed by signal: 15, core dump: 0
+2021-05-01 22:32:08.191606 [UID:1523][10536] Child process with pid: 10604 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+Not Found: /
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from holitech.wsgi import application
+ModuleNotFoundError: No module named 'holitech'
+Not Found: /admin/api
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+Not Found: /
+2021-05-02 12:27:33.992741 [UID:1523][65436] Child process with pid: 65524 was killed by signal: 15, core dump: 0
+2021-05-02 12:27:35.489732 [UID:1523][65436] Child process with pid: 407 was killed by signal: 15, core dump: 0
+2021-05-02 12:27:36.585058 [UID:1523][65436] Child process with pid: 482 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/holitech/holitech/passenger_wsgi.py", line 1, in <module>
+    from Holitech.wsgi import application
+  File "/home/holitech/holitech/Holitech/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 82, in __getattr__
+    self._setup(name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 69, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 170, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/holitech/holitech/Holitech/settings.py", line 153, in <module>
+    urlpatterns += static(settings.STATIC_URL,document_root=settings.STATIC_ROOT)
+NameError: name 'urlpatterns' is not defined
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Unauthorized: /admin/app/api/
+Not Found: /favicon.ico
+Unauthorized: /admin/app/api/
+Internal Server Error: /admin/app/api/FlashMemory/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/FlashMemory/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Not Found: /favicon.ico
+Internal Server Error: /admin/app/api/FlashMemory/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Not Found: /
+Not Found: /
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1130, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: The field 'owner' was declared on serializer ChargerAdabterSerializers, but has not been included in the 'fields' option.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1130, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: The field 'guarantee' was declared on serializer ChargerAdabterSerializers, but has not been included in the 'fields' option.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/holitech/virtualenv/holitech/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/holitech/holitech/Holitech/urls.py", line 4, in <module>
+    from Products.views.apis import *
+  File "/home/holitech/holitech/Products/views/apis.py", line 3, in <module>
+    from Products.serializers import *
+  File "/home/holitech/holitech/Products/serializers.py", line 40, in <module>
+    class HeadsetsSerializers(serializers.ModelSerializer):
+  File "/home/holitech/holitech/Products/serializers.py", line 44, in HeadsetsSerializers
+    guarantee = GuarranteeSerializers()
+NameError: name 'GuarranteeSerializers' is not defined
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/ChargerAdabter/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Internal Server Error: /admin/app/api/home/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1319, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1156, in build_lookup
+    raise FieldError('Related Field got invalid lookup: {}'.format(lookup_name))
+django.core.exceptions.FieldError: Related Field got invalid lookup: icontains
+/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py:1370: RuntimeWarning: DateTimeField User.last_login received a naive datetime (2021-05-05 23:27:12.972085) while time zone support is active.
+  RuntimeWarning)
+a7e7e907c7ff098daa148a4af25e56c6086d0a2b
+Not Found: /
+Not Found: /
+/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py:1370: RuntimeWarning: DateTimeField User.last_login received a naive datetime (2021-05-05 23:27:53.924682) while time zone support is active.
+  RuntimeWarning)
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+a7e7e907c7ff098daa148a4af25e56c6086d0a2b
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+Bad Request: /admin/app/api/Order/OrderConfirmPrice/
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, screenglass, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, screenglass, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, screenglass, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, screenglass, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+Internal Server Error: /admin/app/api/home/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1319, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1156, in build_lookup
+    raise FieldError('Related Field got invalid lookup: {}'.format(lookup_name))
+django.core.exceptions.FieldError: Related Field got invalid lookup: icontains
+Internal Server Error: /admin/app/api/home/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1319, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1156, in build_lookup
+    raise FieldError('Related Field got invalid lookup: {}'.format(lookup_name))
+django.core.exceptions.FieldError: Related Field got invalid lookup: icontains
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, screenglass, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py:1370: RuntimeWarning: DateTimeField User.last_login received a naive datetime (2021-05-06 00:20:21.475292) while time zone support is active.
+  RuntimeWarning)
+a7e7e907c7ff098daa148a4af25e56c6086d0a2b
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, screenglass, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py:1370: RuntimeWarning: DateTimeField User.last_login received a naive datetime (2021-05-06 00:31:13.484292) while time zone support is active.
+  RuntimeWarning)
+a7e7e907c7ff098daa148a4af25e56c6086d0a2b
+Internal Server Error: /admin/app/api/Headset/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Not Found: /favicon.ico
+Internal Server Error: /admin/app/api/Headset/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 515, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/sessions/backends/base.py", line 233, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/mysql/base.py", line 234, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/MySQLdb/__init__.py", line 130, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/MySQLdb/connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb._exceptions.OperationalError: (1044, "Access denied for user 'holitech_milad'@'localhost' to database 'holitech_holitech'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 251, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 222, in inner
+    if not self.has_permission(request):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/admin/sites.py", line 196, in has_permission
+    return request.user.is_active and request.user.is_staff
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 240, in inner
+    self._setup()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 376, in _setup
+    self._wrapped = self._setupfunc()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/auth/middleware.py", line 23, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/auth/middleware.py", line 11, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/auth/__init__.py", line 174, in get_user
+    user_id = _get_user_session_key(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/auth/__init__.py", line 58, in _get_user_session_key
+    return get_user_model()._meta.pk.to_python(request.session[SESSION_KEY])
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/sessions/backends/base.py", line 65, in __getitem__
+    return self._session[key]
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/sessions/backends/base.py", line 238, in _get_session
+    self._session_cache = self.load()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 43, in load
+    s = self._get_session_from_db()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 34, in _get_session_from_db
+    expire_date__gt=timezone.now()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 425, in get
+    num = len(clone)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 269, in __len__
+    self._fetch_all()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 1308, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/compiler.py", line 1154, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/backends/mysql/base.py", line 234, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/MySQLdb/__init__.py", line 130, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/MySQLdb/connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (1044, "Access denied for user 'holitech_milad'@'localhost' to database 'holitech_holitech'")
+Not Found: /
+Not Found: /
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/MobileCovers/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Speaker/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Speaker/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Internal Server Error: /admin/app/api/Speaker/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/renderers.py", line 563, in get_raw_data_form
+    data = serializer.data.copy()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 548, in data
+    ret = super().data
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 250, in data
+    self._data = self.get_initial()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 399, in <listcomp>
+    if not field.read_only
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 398, in get_initial
+    for field in self.fields.values()
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/serializers.py", line 1085, in get_field_names
+    'Got %s.' % type(fields).__name__
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+Unauthorized: /admin/app/api/Order/CartItems/
+Not Found: /
+Unauthorized: /admin/app/api/Usermanagement/ProcessingOrder/
+Unauthorized: /admin/app/api/Usermanagement/DeliveredOrder/
+Unauthorized: /admin/app/api/Usermanagement/
+Unauthorized: /admin/app/api/Usermanagement/SendedOrder/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Not Found: /admin/app/api/Usermanagement/login/
+Bad Request: /admin/app/api/Usermanagement/login/
+/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py:1370: RuntimeWarning: DateTimeField ValidationCode.time_created received a naive datetime (2021-05-07 00:01:17.242694) while time zone support is active.
+  RuntimeWarning)
+/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py:1370: RuntimeWarning: DateTimeField User.last_login received a naive datetime (2021-05-07 00:01:46.471797) while time zone support is active.
+  RuntimeWarning)
+Bad Request: /admin/app/api/Usermanagement/getphone/
+Bad Request: /admin/app/api/Usermanagement/login/
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /

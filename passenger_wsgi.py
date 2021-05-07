@@ -1,0 +1,1 @@
+from Holitech.wsgi import application

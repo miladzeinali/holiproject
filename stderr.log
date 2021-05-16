@@ -5320,3 +5320,73 @@ Traceback (most recent call last):
   File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
     % type(response)
 AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+Not Found: /category
+Not Found: /category
+Not Found: /category
+Not Found: /admin/app/api/highestcountsell
+Not Found: /admin/app/api/newestproducts
+Not Found: /category
+Not Found: /admin/app/api/highestcountsell
+Not Found: /admin/app/api/newestproducts
+Internal Server Error: /admin/app/api/Mobile/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/filters.py", line 124, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 942, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 962, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 969, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1358, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1244, in build_filter
+    check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1380, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1258, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1084, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1482, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'count_sell' into field. Choices are: CountSell, Sale, battery_changable, battery_prop, bluetooth, bluetooth_version, brand, brand_id, camera, camera_disc, cameraglass, category, category_id, chipest, club_point, code, color, color_id, contact_gate, count, cpu, cpu_type, default_softwares, dimensions, frequencies, gpu, guarantee, guarantee_id, hashtag, id, image, image1, image2, internal_memory, location_tech, microSd, mobilebattery, mobilecovers, model, net, off_percent, os, os_version, others_disc, owner, owner_id, persian_language, point, price, publish_date, ram, screen_dimension, screen_limit, screen_pixel, screen_ratio, screen_resolution, screen_technology, sensors, sim_card, sim_count, slot, sound_jac, special_prop, summary_disc, title, touchScreen, weight
+Not Found: /admin/app/api/highestcountsell
+Not Found: /admin/app/api/newestproducts
+Internal Server Error: /admin/app/api/Detail/detailpro/
+Traceback (most recent call last):
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/holitech/virtualenv/holitech/3.7/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`

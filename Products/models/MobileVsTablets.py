@@ -78,6 +78,8 @@ class Mobile(models.Model):
                                    code=self.code,Sale=self.Sale,color=self.color,count=self.count,image=self.image,
                                    price=self.price,off_percent=self.off_percent,club_point=self.club_point,guarantee=self.guarantee,
                                    hashtag=self.hashtag,point=self.point,owner=self.owner)
+    def __str__(self):
+        return self.code
 
 
 

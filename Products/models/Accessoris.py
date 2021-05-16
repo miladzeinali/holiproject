@@ -181,9 +181,9 @@ class mouse(models.Model):
     dimetions=models.CharField(max_length=35, null=True, blank=True)
     weight=models.CharField(max_length=10, null=True, blank=True)
     contact_type_choice=(
-        ('wire','باسیم'),
-        ('bluetooth',' بی سیم bt'),
-        ('bluetooth','بی سیم wifi'),
+        ('wire','wire'),
+        ('bluetooth','bluetooth'),
+        ('wifi','wifi'),
     )
     contact_type=models.CharField(choices=contact_type_choice,max_length=20)
     cable_lenght=models.CharField(max_length=25, null=True, blank=True)
@@ -197,8 +197,8 @@ class mouse(models.Model):
     )
     hand=models.CharField(default='right',choices=hand_choice,max_length=15)
     sensor_type_choice=(
-        (1,'laser'),
-        (2,'oprical')
+        ('laser','laser'),
+        ('oprical','oprical')
     )
     resolution=models.CharField(max_length=50, null=True, blank=True)
     mouse_key_count=models.PositiveSmallIntegerField()
@@ -312,14 +312,14 @@ class ScreenGlass(models.Model):
     point=models.PositiveSmallIntegerField(default=0)
     code=models.CharField(max_length=15)
     owner=models.ForeignKey(Sellers,on_delete=models.CASCADE)
-    mobile=models.ForeignKey(Mobile, on_delete=models.CASCADE)    
+    # mobile=models.ForeignKey(Mobile, on_delete=models.CASCADE)    
     anti_hurt=models.BooleanField(default=True)
     reflex=models.BooleanField(default=True)
     Scratch=models.BooleanField(default=True)
     Thickness=models.CharField(max_length=25, null=True, blank=True)
     FrontOrBack_choice=(
-        (1,'front'),
-        (2,'back')
+        ('front','front'),
+        ('back','back')
     )
     FrontOrBack=models.CharField(default='1',choices=FrontOrBack_choice,max_length=10, null=True, blank=True)
     summary_desc=models.TextField(max_length=200, null=True, blank=True)
@@ -357,11 +357,11 @@ class SmartWatch(models.Model):
     code=models.CharField(max_length=15)
     owner=models.ForeignKey(Sellers,on_delete=models.CASCADE)
     gender_choice=(
-        (1,'آقایان'),
-        (2,'خانم ها'),
-        (3,'آقایان و خانم ها')
+        ('آقایان','آقایان'),
+        ('خانم ها','خانم ها'),
+        ('آقایان و خانم ها','آقایان و خانم ها')
     )
-    gender=models.CharField(default='3',choices=gender_choice,max_length=15)
+    gender=models.CharField(default='3',choices=gender_choice,max_length=35)
     dimension=models.CharField(max_length=50, null=True, blank=True)
     weight=models.CharField(max_length=25, null=True, blank=True)
     glass_material=models.CharField(max_length=35, null=True, blank=True)

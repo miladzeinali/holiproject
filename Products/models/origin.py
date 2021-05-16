@@ -21,7 +21,9 @@ class Sellers(models.Model):
     user=models.ForeignKey(User,on_delete=models.CASCADE)
     shop_name=models.CharField(max_length=35)
     CreditSell=models.IntegerField(default=0)
-
+    def __str__(self):
+        return self.shop_name
+        
 class Guarantee(models.Model):
     guarantee=models.CharField(max_length=200)
     guarantee_percent=models.CharField(max_length=10,null=True,blank=True,default='0')
